@@ -4,6 +4,10 @@
 
 It's a set of functions and constants that provides basic coloring for your terminal app.
 
+```cmd
+pip install -U git+https://github.com/UnnamedXAer/colrz_py#egg=colrz
+```
+
 ```python
 import colrz as c
 
